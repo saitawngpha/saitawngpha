@@ -5,3 +5,7 @@
 - 💬 Ask me about Android & iOS...
 - 📫 How to reach me: saitawngpha@haohaa.com...
 
+## Buy me coffee
+| Shiba      | BTC      | ETH      | Doge |
+|------------|-------------|-------------|-------------|
+| <img src="donate/shib.JPG" width="100%"> | <img src="donate/btc.JPG" width="100%"> | <img src="donate/eth.JPG" width="100%"> | <img src="donate/doge.JPG" width="100%"> | 
