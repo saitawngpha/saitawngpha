@@ -2,7 +2,7 @@
 
 [![Skills](https://widget.realdeveloper.pro/api/top?stack=Kotlin,SwiftUI,Python)](https://github.com/saitawngpha)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Swift,iOS,SwiftUI,Java,Kotlin,Python)](https://github.com/saitawngpha)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Swift,iOS,SwiftUI,Java,Kotlin,Android,Python)](https://github.com/saitawngpha)
 
 - 🔭 I’m currently working on Android project ...
 - 🌱 I’m currently learning Flutter, SwiftUI and Kotlin ...
