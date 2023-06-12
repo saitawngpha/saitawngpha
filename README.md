@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Time+News+Roma&pause=1000&color=1AD1F7&background=FF37EA00&width=435&lines=Waiting+in+IT+is+killing+yourself+...)](https://git.io/typing-svg)
+
 ### Hi there, I'm Sai Tawng Pha 👋
 
 [![Skills](https://widget.realdeveloper.pro/api/top?stack=Kotlin,SwiftUI,Python)](https://github.com/saitawngpha)
