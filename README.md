@@ -2,9 +2,9 @@
 
 ### Hi there, I'm Sai Tawng Pha 👋
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,java,python,dart,flutter)](https://github.com/saitawngpha)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,java,python,dart,flutter,ktor)](https://github.com/saitawngpha)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Swift,iOS,SwiftUI,Java,Kotlin,Android,Python,Dart,Flutter)](https://github.com/saitawngpha)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Swift,iOS,SwiftUI,Java,Kotlin,Android,Python,Dart,Flutter,Compose)](https://github.com/saitawngpha)
 
 - 🔭 I’m currently working on Android project ...
 - 🌱 I’m currently learning Flutter, SwiftUI and Kotlin ...
