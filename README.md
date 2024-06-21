@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Sai Tawng Pha 👋
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,java,python,dart,flutter,ktor,rust)](https://github.com/saitawngpha)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,java,python,dart,flutter,ktor,rust,go)](https://github.com/saitawngpha)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Swift,iOS,SwiftUI,Java,Kotlin,Android,Python,Dart,Flutter,Compose)](https://github.com/saitawngpha)
 
