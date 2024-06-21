@@ -12,6 +12,8 @@
 - 📫 How to reach me: saitawngpha@haohaa.com ...
 - 🐦 On Twitter: [@saitawngpha](https://twitter.com/saitawngpha)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=saitawngpha&data=followers,repositories,stars,commits)](https://github.com/saitawngpha)
+
 ## Buy me coffee ☕️
 | Shiba      | BTC      | ETH      | Doge |
 |------------|-------------|-------------|-------------|
